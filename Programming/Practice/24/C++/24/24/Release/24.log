@@ -1,0 +1,9 @@
+﻿  24.cpp
+C:\Programming\Practice\24\C++\24\24\24.cpp(19,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Programming\Practice\24\C++\24\24\24.cpp(30,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  1 of 1206 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  24.vcxproj -> C:\Programming\Practice\24\C++\24\Release\24.exe
