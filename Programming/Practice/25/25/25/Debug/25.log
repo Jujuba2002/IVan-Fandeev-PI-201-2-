@@ -1,0 +1,5 @@
+﻿  25.cpp
+C:\Programming\Practice\25\25\25\25.cpp(60,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Programming\Practice\25\25\25\25.cpp(114,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Programming\Practice\25\25\25\25.cpp(120,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  25.vcxproj -> C:\Programming\Practice\25\25\Debug\25.exe
