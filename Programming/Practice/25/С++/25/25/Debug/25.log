@@ -1,0 +1,7 @@
+﻿  25.cpp
+C:\Programming\Practice\25\С++\25\25\25.cpp(64,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Programming\Practice\25\С++\25\25\25.cpp(120,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Programming\Practice\25\С++\25\25\25.cpp(127,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Programming\Practice\25\С++\25\25\25.cpp(107): warning C4715: BozoSort: значение возвращается не при всех путях выполнения
+C:\Programming\Practice\25\С++\25\25\25.cpp(88): warning C4715: BozoSort: значение возвращается не при всех путях выполнения
+  25.vcxproj -> C:\Programming\Practice\25\С++\25\Debug\25.exe
