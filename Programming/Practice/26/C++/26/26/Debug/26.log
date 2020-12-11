@@ -1,0 +1,11 @@
+﻿  26.cpp
+C:\Programming\Practice\26\C++\26\26\26.cpp(127,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Programming\Practice\26\C++\26\26\26.cpp(133,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Programming\Practice\26\C++\26\26\26.cpp(166,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Programming\Practice\26\C++\26\26\26.cpp(69,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Programming\Practice\26\C++\26\26\26.cpp(200): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::vector<double,std::allocator<double>> BozoSort<double>(std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>>,bool)"
+C:\Programming\Practice\26\C++\26\26\26.cpp(93): warning C4715: BozoSort<double>: значение возвращается не при всех путях выполнения
+C:\Programming\Practice\26\C++\26\26\26.cpp(113): warning C4715: BozoSort<double>: значение возвращается не при всех путях выполнения
+C:\Programming\Practice\26\C++\26\26\26.cpp(93): warning C4715: BozoSort<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >: значение возвращается не при всех путях выполнения
+C:\Programming\Practice\26\C++\26\26\26.cpp(113): warning C4715: BozoSort<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >: значение возвращается не при всех путях выполнения
+  26.vcxproj -> C:\Programming\Practice\26\C++\26\Debug\26.exe
